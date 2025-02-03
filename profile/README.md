@@ -23,6 +23,10 @@
 6. デバイス、、作っちゃう？
 7. あなたの願望を叶えることができるかも？
 
+### 🛠️ 関連組織
+- [Donverse.net](https://github.com/donverse-dotnet) - 僕たちです
+- [YuricaCloud](https://github.com/YuricaCloud) - YuricaProjectを支えるCloudサービスの開発を行っている組織です（ほとんどが非公開です）
+
 ### 🌐 ソーシャル
 - [オフィシャルウェブサイト](https://lab.donverse.net/) - 僕たちについての記事やコミュニティの決まり事などが書いてあるよ！
 - [Discordに参加してください！](https://discord.com/invite/CYqaPpxqb6) - 開発状況の確認やイベントへの参加、僕たちのサービスについての意見交換などができるよ！
